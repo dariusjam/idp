@@ -1,0 +1,7 @@
+Un schielet de cod cu definitiile functiilor nio a fost luat de la urmatorul
+link:
+http://adblogcat.com/asynchronous-java-nio-for-dummies/
+
+Clasele care compun efectiv proiectul sunt doar Client si Server.
+In pachetul gui sunt doar clasele cu interfetele grafice inainte de a fi
+integrate cu clientul si serverul.
